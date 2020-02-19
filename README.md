@@ -9,5 +9,3 @@ python3 main.py
 ```
 
 ![chatbot](/chatbot/chatbot.png)
-
-Tutorial - https://techwithtim.net/tutorials/ai-chatbot/
